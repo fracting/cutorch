@@ -2,7 +2,7 @@ package = "cutorch"
 version = "1.0-0"
 
 source = {
-   url = "git://github.com/torch/cutorch.git",
+   url = "git://github.com/fracting/cutorch.git",
    tag = "1.0"
 }
 
